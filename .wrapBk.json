@@ -1,0 +1,32 @@
+{
+    "usageCount": 296, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "wrapBk", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [
+            null
+        ], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "6", 
+        "modifiers": [
+            "<hyper>"
+        ]
+    }, 
+    "modes": [], 
+    "showInTrayMenu": false, 
+    "filter": {
+        "regex": null, 
+        "isRecursive": false
+    }, 
+    "type": "script", 
+    "store": {
+        "wrap": 1
+    }
+}
