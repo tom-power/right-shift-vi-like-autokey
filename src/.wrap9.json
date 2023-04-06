@@ -1,0 +1,35 @@
+{
+    "type": "script",
+    "description": "\"wrap",
+    "store": {
+        "wrap": "\""
+    },
+    "modes": [
+        3
+    ],
+    "usageCount": 658,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [
+            null
+        ],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<hyper>",
+            "<shift>"
+        ],
+        "hotKey": "2"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

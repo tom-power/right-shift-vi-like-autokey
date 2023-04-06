@@ -1,0 +1,33 @@
+{
+    "usageCount": 2375, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "enter_alt", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [
+            null
+        ], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "m", 
+        "modifiers": [
+            "<alt>", 
+            "<hyper>"
+        ]
+    }, 
+    "modes": [
+        3
+    ], 
+    "showInTrayMenu": false, 
+    "filter": {
+        "regex": null, 
+        "isRecursive": false
+    }, 
+    "type": "script", 
+    "store": {}
+}

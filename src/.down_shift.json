@@ -1,0 +1,33 @@
+{
+    "usageCount": 4864, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "down_shift", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [
+            null
+        ], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "j", 
+        "modifiers": [
+            "<hyper>", 
+            "<shift>"
+        ]
+    }, 
+    "modes": [
+        3
+    ], 
+    "showInTrayMenu": false, 
+    "filter": {
+        "regex": null, 
+        "isRecursive": false
+    }, 
+    "type": "script", 
+    "store": {}
+}

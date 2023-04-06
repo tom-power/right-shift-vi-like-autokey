@@ -1,0 +1,32 @@
+{
+    "usageCount": 853, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "f6_alt", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [
+            null
+        ], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "r", 
+        "modifiers": [
+            "<hyper>"
+        ]
+    }, 
+    "modes": [
+        3
+    ], 
+    "showInTrayMenu": true, 
+    "filter": {
+        "regex": null, 
+        "isRecursive": false
+    }, 
+    "type": "script", 
+    "store": {}
+}
