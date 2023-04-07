@@ -60,4 +60,4 @@ cd ./right-shift-vi-like-autokey &&
 
 ```
 
-you should be able see them in the autokey -> "Show main window"
+you should be able see them in `autokey -> Show main window`
