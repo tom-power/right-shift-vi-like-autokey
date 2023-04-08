@@ -56,7 +56,7 @@ Install [autokey](https://github.com/autokey/autokey), then..
 ```bash
 clone https://github.com/tom-power/right-shift-vi-like-autokey &&
 cd ./right-shift-vi-like-autokey &&
-./install.sh
+./install.sh [--with-extras]
 
 ```
 
