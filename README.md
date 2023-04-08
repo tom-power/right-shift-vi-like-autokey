@@ -8,14 +8,14 @@ With **right shift** as modifier unless mentioned..
 
 #### Movement/navigation
 
-| From                | To                           |
-| ------------------- | ---------------------------- |
-| h/j/k/l             | arrow keys                   |
-| w/b                 | word forward/back            |
-| a/e                 | home/end                     |
-| p/;                 | page up/down                 |
-| u/o                 | ctrl+shift+[/](<tab switch>) |
-| +ctrl/shift/alt/ctrl| send with any of above       |
+| From                 | To                           |
+| -------------------- | ---------------------------- |
+| h/j/k/l              | arrow keys                   |
+| w/b                  | word forward/back            |
+| a/e                  | home/end                     |
+| p/;                  | page up/down                 |
+| u/o                  | ctrl+shift+[/](<tab switch>) |
+| +ctrl/shift/alt/ctrl | send with any of above       |
 
 #### Editing
 
