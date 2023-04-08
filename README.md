@@ -15,13 +15,13 @@ With **right shift** as modifier unless mentioned..
 | a/e                 | home/end                     |
 | p/;                 | page up/down                 |
 | u/o                 | ctrl+shift+[/](<tab switch>) |
-| ctrl/shift/alt/ctrl | additional modifier          |
+| +ctrl/shift/alt/ctrl| send with any of above       |
 
 #### Editing
 
 | From             | To               |
 | ---------------- | ---------------- |
-| s/c/v/x/z/t/i    | same with ctrl   |
+| s/c/v/x/z/t/i    | send with ctrl   |
 | m                | return           |
 | f/d              | delete/backspace |
 | space            | tab              |
@@ -60,4 +60,4 @@ cd ./right-shift-vi-like-autokey &&
 
 ```
 
-you should be able see them in `autokey -> Show main window`
+you should be able see new scripts in `autokey -> Show main window`
