@@ -25,4 +25,9 @@ fi
 
 cp ./src/* $configDir
 
+if  [ "$1" == "--with-extras" ]; then
+  echo "copying extras.."
+  cp ./src/extras/* $configDir
+fi
+
 echo "..all done, check they've been installed in the autokey main window"
