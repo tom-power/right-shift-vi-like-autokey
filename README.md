@@ -38,16 +38,16 @@ With **right shift** as modifier unless mentioned..
 
 ### Extras
 
-Have included some mappings I find useful in `src/extras`, install using `--with-extras` below, some descriptions:
+Have included some extras scripts I find useful in `src/extras`, install using `--with-extras` below, some descriptions:
 
-| From                                 | To                                           |
-| ------------------------------------ | -------------------------------------------- |
-| right_shift+right_shift+double_quote | wrap selection in double quotes              |
-| right_shift+q                        | single quote                                 |
-| right_shift+i                        | ./                                           |
-| right_shift+left_shift+i             | ../                                          |
-| right_shift+\`                       | ~/                                           |
-| right_shift+ctrl+alt+h/l             | ctrl+alt+left/right (back forward in history |
+| From                    | To                                           |
+| ----------------------- | -------------------------------------------- |
+| left_shift+double_quote | wrap selection in double quotes              |
+| q                       | single quote                                 |
+| i                       | ./                                           |
+| left_shift+i            | ../                                          |
+| \`                      | ~/                                           |
+
 
 ### Installation
 
