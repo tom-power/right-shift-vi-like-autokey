@@ -2,6 +2,8 @@
 
 Inspired by vi like editor keybindings, these [autokey](https://github.com/autokey/autokey) configurations have more or less saved my life, YMMV!
 
+![demo](https://github.com/tom-power/right-shift-vi-like-autokey/blob/main/assets/demo.gif)
+
 ### Mappings
 
 With **right shift/hyper** as modifier:
@@ -70,3 +72,5 @@ cd ./right-shift-vi-like-autokey &&
 ```
 
 you should be able see new scripts in `autokey -> Show main window`
+
+![demo](https://github.com/tom-power/right-shift-vi-like-autokey/blob/main/assets/weNeedToTalkAboutKeyboards.gif)
