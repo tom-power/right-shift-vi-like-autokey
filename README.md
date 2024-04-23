@@ -4,7 +4,7 @@ Inspired by vi like editor keybindings, these [autokey](https://github.com/autok
 
 ### Mappings
 
-With **right shift** as modifier unless mentioned..
+With **right shift/hyper** as modifier:
 
 #### Movement/navigation
 
@@ -50,7 +50,20 @@ Have included some extras scripts I find useful in `src/extras`, install using `
 
 ### Installation
 
-Install [autokey](https://github.com/autokey/autokey), then..
+##### keyboard
+
+The scripts use hyper as modifier, so you need to map right shift (or whatever you prefer) to use them. The following works for me as mod3 is empty, use `xmodmap` to confirm then:
+
+```shell
+xmodmap -e "remove shift = Shift_R" &&
+xmodmap -e "remove mod4 = Hyper_L" &&
+xmodmap -e "keysym Shift_R = Hyper_L" &&
+xmodmap -e "add mod3 = Hyper_L"
+```
+
+##### Autokey
+
+Install [autokey](https://github.com/autokey/autokey), then:
 
 ```bash
 clone https://github.com/tom-power/right-shift-vi-like-autokey &&
