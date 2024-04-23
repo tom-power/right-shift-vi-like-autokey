@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "*wrap",
+    "description": "menu",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 127,
+    "usageCount": 10070,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -21,10 +21,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<hyper>",
-            "<shift>"
+            "<hyper>"
         ],
-        "hotKey": "8"
+        "hotKey": "n"
     },
     "filter": {
         "regex": null,

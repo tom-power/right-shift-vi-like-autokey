@@ -38,8 +38,6 @@ With **right shift/hyper** as modifier:
 
 ### Extras
 
-Have included some extras scripts I find useful in `src/extras`, install using `--with-extras` below, some descriptions:
-
 | From                    | To                              |
 | ----------------------- | ------------------------------- |
 | left_shift+double_quote | wrap selection in double quotes |
