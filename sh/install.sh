@@ -2,8 +2,8 @@
 
 #!/bin/bash
 echo "-------------------------WARNING-------------------------"
-echo "This will write settings to:"
-echo "~/.config/autokey/data/scripts/vi/"
+echo "This will write scripts to:"
+echo "~/.config/autokey/data/scripts/right-shift-vi-like/"
 echo "anything there currently will be overwritten."
 echo "-------------------------WARNING-------------------------"
 read \
@@ -17,12 +17,12 @@ fi
 
 echo "copying.."
 
-configDir=~/.config/autokey/data/scripts/right-shift-vi-like/
+autokeyDir=~/.config/autokey/data/scripts/right-shift-vi-like/
 
-if [ ! -d $configDir ]; then
-  mkdir -p $configDir
+if [ ! -d $autokeyDir ]; then
+  mkdir -p $autokeyDir
 fi
 
-cp ./src/* $configDir
+cp src/* $autokeyDir
 
-echo "..all done, check they've been installed in the autokey main window"
+echo "..all done, review in 'autokey -> Show main window'"

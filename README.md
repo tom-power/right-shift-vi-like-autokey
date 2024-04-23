@@ -66,10 +66,10 @@ Install [autokey](https://github.com/autokey/autokey), then:
 ```bash
 clone https://github.com/tom-power/right-shift-vi-like-autokey &&
 cd ./right-shift-vi-like-autokey &&
-./install.sh [--with-extras]
+./install.sh
 ```
 
-you should be able see new scripts in `autokey -> Show main window`
+review in `autokey -> Show main window`
 
 ##### Notes
 
