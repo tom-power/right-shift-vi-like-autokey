@@ -50,13 +50,11 @@ With **right shift/hyper** as modifier, can be combined with other modifiers:
 
 ##### keyboard
 
-The scripts use hyper as modifier, so you need to map right shift (or whatever you prefer) to use them. The following works for me as mod3 is empty, use `xmodmap` to confirm then:
+The scripts use hyper as modifier, do something like this to add the mapping:
 
 ```shell
 xmodmap -e "remove shift = Shift_R" &&
-xmodmap -e "remove mod4 = Hyper_L" &&
-xmodmap -e "keysym Shift_R = Hyper_L" &&
-xmodmap -e "add mod3 = Hyper_L"
+xmodmap -e "keysym Shift_R = Hyper_R"
 ```
 
 ##### autokey
